@@ -247,5 +247,7 @@ public class LogicClass {
         String format1 = dateTimeFormatter.format(parse);
         System.out.println("format1 = " + format1);
 
+        System.out.println(" = " + "서보인 방금 수정함");
+
     }
 }
